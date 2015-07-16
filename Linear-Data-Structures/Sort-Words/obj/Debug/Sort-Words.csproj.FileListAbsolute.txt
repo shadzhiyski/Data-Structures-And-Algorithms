@@ -1,0 +1,6 @@
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sort-Words\bin\Debug\Sort-Words.exe.config
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sort-Words\bin\Debug\Sort-Words.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sort-Words\bin\Debug\Sort-Words.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sort-Words\obj\Debug\Sort-Words.csprojResolveAssemblyReference.cache
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sort-Words\obj\Debug\Sort-Words.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sort-Words\obj\Debug\Sort-Words.pdb

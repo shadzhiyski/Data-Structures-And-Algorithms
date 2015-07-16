@@ -1,0 +1,6 @@
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Longest-Subsequence\bin\Debug\Longest-Subsequence.exe.config
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Longest-Subsequence\bin\Debug\Longest-Subsequence.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Longest-Subsequence\bin\Debug\Longest-Subsequence.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Longest-Subsequence\obj\Debug\Longest-Subsequence.csprojResolveAssemblyReference.cache
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Longest-Subsequence\obj\Debug\Longest-Subsequence.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Longest-Subsequence\obj\Debug\Longest-Subsequence.pdb

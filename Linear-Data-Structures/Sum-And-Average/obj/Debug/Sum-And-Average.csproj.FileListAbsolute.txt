@@ -1,0 +1,6 @@
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sum-And-Average\bin\Debug\Sum-And-Average.exe.config
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sum-And-Average\bin\Debug\Sum-And-Average.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sum-And-Average\bin\Debug\Sum-And-Average.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sum-And-Average\obj\Debug\Sum-And-Average.csprojResolveAssemblyReference.cache
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sum-And-Average\obj\Debug\Sum-And-Average.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Sum-And-Average\obj\Debug\Sum-And-Average.pdb
