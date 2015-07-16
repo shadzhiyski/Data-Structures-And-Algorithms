@@ -1,0 +1,7 @@
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack.Tests\bin\Debug\Array-Based-Stack.Tests.dll
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack.Tests\bin\Debug\Array-Based-Stack.Tests.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack.Tests\bin\Debug\Array-Based-Stack.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack.Tests\bin\Debug\Array-Based-Stack.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack.Tests\obj\Debug\Array-Based-Stack.Tests.csprojResolveAssemblyReference.cache
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack.Tests\obj\Debug\Array-Based-Stack.Tests.dll
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack.Tests\obj\Debug\Array-Based-Stack.Tests.pdb
