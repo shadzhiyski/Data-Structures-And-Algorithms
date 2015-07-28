@@ -1,6 +1,0 @@
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack\bin\Debug\Array-Based-Stack.exe.config
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack\bin\Debug\Array-Based-Stack.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack\bin\Debug\Array-Based-Stack.pdb
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack\obj\Debug\Array-Based-Stack.csprojResolveAssemblyReference.cache
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack\obj\Debug\Array-Based-Stack.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Array-Based-Stack\obj\Debug\Array-Based-Stack.pdb

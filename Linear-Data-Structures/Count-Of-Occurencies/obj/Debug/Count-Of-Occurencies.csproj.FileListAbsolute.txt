@@ -1,8 +1,0 @@
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Count-Of-Occurencies\bin\Debug\Count-Of-Occurencies.exe.config
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Count-Of-Occurencies\bin\Debug\Count-Of-Occurencies.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Count-Of-Occurencies\bin\Debug\Count-Of-Occurencies.pdb
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Count-Of-Occurencies\bin\Debug\Remove-Odd-Occurencies.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Count-Of-Occurencies\bin\Debug\Remove-Odd-Occurencies.pdb
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Count-Of-Occurencies\obj\Debug\Count-Of-Occurencies.csprojResolveAssemblyReference.cache
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Count-Of-Occurencies\obj\Debug\Count-Of-Occurencies.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Count-Of-Occurencies\obj\Debug\Count-Of-Occurencies.pdb

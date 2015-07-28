@@ -1,6 +1,0 @@
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Reverse-Numbers-With-Stack\bin\Debug\Reverse-Numbers-With-Stack.exe.config
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Reverse-Numbers-With-Stack\bin\Debug\Reverse-Numbers-With-Stack.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Reverse-Numbers-With-Stack\bin\Debug\Reverse-Numbers-With-Stack.pdb
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Reverse-Numbers-With-Stack\obj\Debug\Reverse-Numbers-With-Stack.csprojResolveAssemblyReference.cache
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Reverse-Numbers-With-Stack\obj\Debug\Reverse-Numbers-With-Stack.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Reverse-Numbers-With-Stack\obj\Debug\Reverse-Numbers-With-Stack.pdb

@@ -1,7 +1,0 @@
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\3. Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojResolveAssemblyReference.cache
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\3. Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\3. Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

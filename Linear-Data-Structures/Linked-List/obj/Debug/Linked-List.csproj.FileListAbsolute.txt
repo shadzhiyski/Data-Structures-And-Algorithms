@@ -1,6 +1,0 @@
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Linked-List\bin\Debug\Linked-List.exe.config
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Linked-List\bin\Debug\Linked-List.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Linked-List\bin\Debug\Linked-List.pdb
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Linked-List\obj\Debug\Linked-List.csprojResolveAssemblyReference.cache
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Linked-List\obj\Debug\Linked-List.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\2. Linear-Data-Structures-Lists\homework\Linear-Data-Structures\Linked-List\obj\Debug\Linked-List.pdb

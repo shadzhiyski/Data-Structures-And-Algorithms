@@ -1,7 +1,0 @@
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Stack.Tests\bin\Debug\Linked-Stack.Tests.dll
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Stack.Tests\bin\Debug\Linked-Stack.Tests.pdb
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Stack.Tests\bin\Debug\Linked-Stack.exe
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Stack.Tests\bin\Debug\Linked-Stack.pdb
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Stack.Tests\obj\Debug\Linked-Stack.Tests.csprojResolveAssemblyReference.cache
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Stack.Tests\obj\Debug\Linked-Stack.Tests.dll
-D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Stack.Tests\obj\Debug\Linked-Stack.Tests.pdb
