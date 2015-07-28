@@ -1,0 +1,6 @@
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Sequence-With-Queue\bin\Debug\Sequence-With-Queue.exe.config
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Sequence-With-Queue\bin\Debug\Sequence-With-Queue.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Sequence-With-Queue\bin\Debug\Sequence-With-Queue.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Sequence-With-Queue\obj\Debug\Sequence-With-Queue.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Sequence-With-Queue\obj\Debug\Sequence-With-Queue.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Sequence-With-Queue\obj\Debug\Sequence-With-Queue.csprojResolveAssemblyReference.cache

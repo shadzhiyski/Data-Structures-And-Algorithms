@@ -1,0 +1,5 @@
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Queue\bin\Debug\Linked-Queue.exe.config
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Queue\bin\Debug\Linked-Queue.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Queue\bin\Debug\Linked-Queue.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Queue\obj\Debug\Linked-Queue.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\3. Linear-Data-Structures-Stacks-and-Queues\homework\Stacks-And-Queues\Linked-Queue\obj\Debug\Linked-Queue.pdb
