@@ -85,52 +85,6 @@ public class DoublyLinkedList<T> : IEnumerable<T>, IList<T>
         return value;
     }
 
-    public void ForEach(Action<T> action)
-    {
-        var currNode = first;
-        if (Count != 0)
-        {
-            while (currNode != null)
-            {
-                action(currNode.Value);
-                currNode = currNode.Next;
-            }
-        }
-    }
-
-    public IEnumerator<T> GetEnumerator()
-    {
-        var currNode = first;
-        if (Count != 0)
-        {
-			int count = Count;
-            while (--count >= 0)
-            {
-                yield return currNode.Value;
-                currNode = currNode.Next;
-            }
-        }
-    }
-
-    IEnumerator IEnumerable.GetEnumerator()
-    {
-        return this.GetEnumerator();
-    }
-
-    public T[] ToArray()
-    {
-        var array = new T[size];
-        int i = 0;
-        var currNode = first;
-        while (i <= Count)
-        {
-            array[i++] = currNode.Value;
-            currNode = currNode.Next;
-        }
-
-        return array;
-    }
-
     public int IndexOf(T item)
     {
         int index = 0;
@@ -270,6 +224,52 @@ public class DoublyLinkedList<T> : IEnumerable<T>, IList<T>
         }
 
         return false;
+    }
+
+    public void ForEach(Action<T> action)
+    {
+        var currNode = first;
+        if (Count != 0)
+        {
+            while (currNode != null)
+            {
+                action(currNode.Value);
+                currNode = currNode.Next;
+            }
+        }
+    }
+
+    public IEnumerator<T> GetEnumerator()
+    {
+        var currNode = first;
+        if (Count != 0)
+        {
+            int count = Count;
+            while (--count >= 0)
+            {
+                yield return currNode.Value;
+                currNode = currNode.Next;
+            }
+        }
+    }
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return this.GetEnumerator();
+    }
+
+    public T[] ToArray()
+    {
+        var array = new T[size];
+        int i = 0;
+        var currNode = first;
+        while (i <= Count)
+        {
+            array[i++] = currNode.Value;
+            currNode = currNode.Next;
+        }
+
+        return array;
     }
 }
 

@@ -52,7 +52,6 @@ public class FibonacciHeap<P, V> : IHeap<P, V> where P : IComparable<P>
         else
         {
             treeList.Add(element);
-            minElement = treeList.first;
         }
 
         if (minElement.Value.Priority.CompareTo(element.Priority) > 0)
@@ -68,7 +67,7 @@ public class FibonacciHeap<P, V> : IHeap<P, V> where P : IComparable<P>
 	
 	public V DeleteMin()
 	{
-		if (minElement == null) 
+		if (minElement == null && Count == 0) 
         {
             throw new InvalidOperationException("The heap is empty.");
         }
@@ -118,20 +117,17 @@ public class FibonacciHeap<P, V> : IHeap<P, V> where P : IComparable<P>
         int numberOfTrees = treeList.Count, count = 0;
         DoublyLinkedListNode<Element>[] levels = 
 			new DoublyLinkedListNode<Element>[DEFAULT_LEVEL_SIZE]; 
-        //IList<DoublyLinkedListNode<Element>> levels = new List<DoublyLinkedListNode<Element>>();
         var currNode = treeList.first;
         while (count < numberOfTrees)
         {
-			bool hasTreesWithSameLevels = false;
 			var node = currNode;
 			RemoveNodeFromList(node);
             CheckCapacity(node.Value.TreeList.Count, ref levels);
             var levelNode = levels[node.Value.TreeList.Count];
             while (levelNode != null && node != null)
             {
-				hasTreesWithSameLevels = true;
                 if (levelNode.Value.Priority
-						.CompareTo(node.Value.Priority) > 0)
+						.CompareTo(node.Value.Priority) >= 0)
                 {
                     levels[node.Value.TreeList.Count] = null;
                     node.Value.TreeList.Add(levelNode.Value);
@@ -156,11 +152,17 @@ public class FibonacciHeap<P, V> : IHeap<P, V> where P : IComparable<P>
 		RebuildTreeList(levels);
     }
 	
-	private int FindNumberOfNodes(int numberOfChildren)
+	private int FindNumberOfAllNodes(int numberOfChildren)
 	{
         if (numberOfChildren > 0)
         {
-            return (1 << (numberOfChildren - 1)) + 1;
+            int count = 0;
+            for (int i = 0; i < numberOfChildren; i++)
+            {
+                count += (1 << (numberOfChildren - 1));
+            }
+
+            return count + 1;
         }
 
         return 1;
@@ -176,7 +178,7 @@ public class FibonacciHeap<P, V> : IHeap<P, V> where P : IComparable<P>
         treeList.Clear();
 		if (list.Length > 0)
 		{
-            for (int i = list.Length - 1; i >= 0; i--)
+            for (int i = 0; i < list.Length; i++)
 			{
 				if(list[i] != null)
 				{
@@ -269,9 +271,35 @@ public class FibonacciHeap<P, V> : IHeap<P, V> where P : IComparable<P>
         throw new NotImplementedException(); // TO DO
     }
 
-    public IHeap<P, V> Merge(IHeap<P, V> heap)
+    public FibonacciHeap<P, V> Merge(FibonacciHeap<P, V> heap)
     {
-        throw new NotImplementedException(); // TO DO
+        if (Count == 0)
+        {
+            return heap;
+        }
+        if (heap.Count == 0)
+        {
+            return this;
+        }
+
+        var newHeap = new FibonacciHeap<P, V>();
+        
+        newHeap.treeList.first = treeList.first;
+        treeList.last.Next = heap.treeList.first;
+        heap.treeList.first.Prev = treeList.last;
+        newHeap.treeList.last = heap.treeList.last;
+        newHeap.treeList.Count = treeList.Count + heap.treeList.Count;
+        newHeap.Count = Count + heap.Count;
+        if (minElement.Value.Priority.CompareTo(heap.minElement.Value.Priority) <= 0)
+        {
+            newHeap.minElement = minElement;
+        }
+        else
+        {
+            newHeap.minElement = heap.minElement;
+        }
+
+        return newHeap;
     }
 	
 	private class Element : IComparable<Element> 

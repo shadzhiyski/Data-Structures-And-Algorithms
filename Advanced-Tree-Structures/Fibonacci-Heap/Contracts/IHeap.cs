@@ -11,7 +11,5 @@ namespace Fibonacci_Heap.Contracts
         V DeleteMin();
 
         void DecreaseKey(P priority, P newPriority);
-
-        IHeap<P, V> Merge(IHeap<P, V> heap);
     }
 }
