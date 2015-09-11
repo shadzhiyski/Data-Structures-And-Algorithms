@@ -1,0 +1,7 @@
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\9. Data-Structure-Efficiency\homework\Data-Structure-Efficiency\BiDictionary\bin\Debug\BiDictionary.exe.config
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\9. Data-Structure-Efficiency\homework\Data-Structure-Efficiency\BiDictionary\obj\Debug\BiDictionary.csprojResolveAssemblyReference.cache
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\9. Data-Structure-Efficiency\homework\Data-Structure-Efficiency\BiDictionary\bin\Debug\BiDictionary.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\9. Data-Structure-Efficiency\homework\Data-Structure-Efficiency\BiDictionary\bin\Debug\BiDictionary.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\9. Data-Structure-Efficiency\homework\Data-Structure-Efficiency\BiDictionary\bin\Debug\PowerCollections.dll
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\9. Data-Structure-Efficiency\homework\Data-Structure-Efficiency\BiDictionary\obj\Debug\BiDictionary.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\9. Data-Structure-Efficiency\homework\Data-Structure-Efficiency\BiDictionary\obj\Debug\BiDictionary.pdb
