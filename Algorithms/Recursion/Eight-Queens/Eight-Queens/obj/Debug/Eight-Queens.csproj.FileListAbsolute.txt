@@ -1,0 +1,6 @@
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\1. Recursion\Eight-Queens\Eight-Queens\bin\Debug\Eight-Queens.exe.config
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\1. Recursion\Eight-Queens\Eight-Queens\bin\Debug\Eight-Queens.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\1. Recursion\Eight-Queens\Eight-Queens\bin\Debug\Eight-Queens.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\1. Recursion\Eight-Queens\Eight-Queens\obj\Debug\Eight-Queens.csprojResolveAssemblyReference.cache
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\1. Recursion\Eight-Queens\Eight-Queens\obj\Debug\Eight-Queens.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\1. Recursion\Eight-Queens\Eight-Queens\obj\Debug\Eight-Queens.pdb
