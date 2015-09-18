@@ -9,8 +9,8 @@
         static bool[,] chessboard = new bool[Size, Size];
 
         static bool[] attackedCols = new bool[Size];
-        static bool[] attackedDiagonalsRight = new bool[2 * Size];
-        static bool[] attackedDiagonalsLeft = new bool[2 * Size];
+        static bool[] attackedDiagonalsRight = new bool[2 * Size - 1];
+        static bool[] attackedDiagonalsLeft = new bool[2 * Size - 1];
 
         public static void PutQueens(int row = 0)
         {
@@ -52,8 +52,7 @@
             int left = col - row;
             int right = row + col;
             attackedCols[col] = false;
-            attackedDiagonalsLeft[left < 0 || (left == 0 && col - row == 0) ?
-                Size - left : left] = false;
+            attackedDiagonalsLeft[left < 0 ? Size - left - 1 : left] = false;
             attackedDiagonalsRight[right] = false;
             chessboard[row, col] = false;
         }
@@ -63,8 +62,7 @@
             int left = col - row;
             int right = row + col;
             attackedCols[col] = true;
-            attackedDiagonalsLeft[left < 0 || (left == 0 && col - row == 0) ? 
-                Size - left : left] = true;
+            attackedDiagonalsLeft[left < 0 ? Size - left - 1 : left] = true;
             attackedDiagonalsRight[right] = true;
             chessboard[row, col] = true;
         }
@@ -75,8 +73,7 @@
             int right = row + col;
             var positionOccupied =
                 attackedCols[col]
-                || attackedDiagonalsLeft[left < 0 || (left == 0 && col - row == 0) ?
-                Size - left : left]
+                || attackedDiagonalsLeft[left < 0 ? Size - left - 1 : left]
                 || attackedDiagonalsRight[right];
             return !positionOccupied;
         }
