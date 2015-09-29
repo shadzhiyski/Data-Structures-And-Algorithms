@@ -1,4 +1,6 @@
-﻿namespace Paths_Between_Cells_In_Matrix
+﻿#define DEBUG_MODE
+
+namespace Paths_Between_Cells_In_Matrix
 {
     using System;
     using System.Collections.Generic;
@@ -27,6 +29,10 @@
 
         static void FindPathToExit(int row, int col, char direction)
         {
+            #if DEBUG_MODE
+                PrintLabyrinth(row, col);
+            #endif
+
             if (!InRange(row, col))
             {
                 // We are out of the labyrinth -> can't find a path
