@@ -41,9 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RoundDance.cs" />
+    <Compile Include="LongestRoundDance.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RoundeDanceSolvation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
