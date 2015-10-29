@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance-Between-Vertices", "Distance-Between-Vertices\Distance-Between-Vertices.csproj", "{8DD1A340-34FB-4169-94DA-F289BA04C047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycles-In-Graph", "Cycles-In-Graph\Cycles-In-Graph.csproj", "{CBAD9A81-402E-4310-95CC-04A688647464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Areas-In-Matrix", "Areas-In-Matrix\Areas-In-Matrix.csproj", "{D8E34DA6-E248-4CE7-BDAD-48808E30C743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salaries", "Salaries\Salaries.csproj", "{1C12287D-5607-4396-AD6F-E3FBFDE1C399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD1A340-34FB-4169-94DA-F289BA04C047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD1A340-34FB-4169-94DA-F289BA04C047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD1A340-34FB-4169-94DA-F289BA04C047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD1A340-34FB-4169-94DA-F289BA04C047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBAD9A81-402E-4310-95CC-04A688647464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAD9A81-402E-4310-95CC-04A688647464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAD9A81-402E-4310-95CC-04A688647464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAD9A81-402E-4310-95CC-04A688647464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E34DA6-E248-4CE7-BDAD-48808E30C743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E34DA6-E248-4CE7-BDAD-48808E30C743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E34DA6-E248-4CE7-BDAD-48808E30C743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E34DA6-E248-4CE7-BDAD-48808E30C743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C12287D-5607-4396-AD6F-E3FBFDE1C399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C12287D-5607-4396-AD6F-E3FBFDE1C399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C12287D-5607-4396-AD6F-E3FBFDE1C399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C12287D-5607-4396-AD6F-E3FBFDE1C399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

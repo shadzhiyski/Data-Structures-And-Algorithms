@@ -1,0 +1,6 @@
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\5. Graph-Algorithms\Graph-Algorithms\Salaries\bin\Debug\Salaries.exe.config
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\5. Graph-Algorithms\Graph-Algorithms\Salaries\bin\Debug\Salaries.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\5. Graph-Algorithms\Graph-Algorithms\Salaries\bin\Debug\Salaries.pdb
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\5. Graph-Algorithms\Graph-Algorithms\Salaries\obj\Debug\Salaries.csprojResolveAssemblyReference.cache
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\5. Graph-Algorithms\Graph-Algorithms\Salaries\obj\Debug\Salaries.exe
+D:\Google Диск\SU\Courses\Data-Structures-Algorithms\Algorithms\5. Graph-Algorithms\Graph-Algorithms\Salaries\obj\Debug\Salaries.pdb
