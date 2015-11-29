@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group-Permutations", "Group-Permutations\Group-Permutations.csproj", "{FB1D205B-C760-43D7-A998-4BD4CD731AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridges", "Bridges\Bridges.csproj", "{ABE7A427-7141-4C91-B681-F5EE066824F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Line-Inverter", "Line-Inverter\Line-Inverter.csproj", "{ABE56097-200A-488B-A8FF-2F3DC0312D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph-Cycles", "Graph-Cycles\Graph-Cycles.csproj", "{9FAD03CF-83E1-4D51-84A9-0C5FC33D7A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1D205B-C760-43D7-A998-4BD4CD731AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1D205B-C760-43D7-A998-4BD4CD731AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1D205B-C760-43D7-A998-4BD4CD731AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1D205B-C760-43D7-A998-4BD4CD731AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE7A427-7141-4C91-B681-F5EE066824F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE7A427-7141-4C91-B681-F5EE066824F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE7A427-7141-4C91-B681-F5EE066824F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE7A427-7141-4C91-B681-F5EE066824F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE56097-200A-488B-A8FF-2F3DC0312D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE56097-200A-488B-A8FF-2F3DC0312D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE56097-200A-488B-A8FF-2F3DC0312D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE56097-200A-488B-A8FF-2F3DC0312D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAD03CF-83E1-4D51-84A9-0C5FC33D7A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAD03CF-83E1-4D51-84A9-0C5FC33D7A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAD03CF-83E1-4D51-84A9-0C5FC33D7A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAD03CF-83E1-4D51-84A9-0C5FC33D7A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
