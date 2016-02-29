@@ -1,0 +1,1 @@
+C:\Users\Stoian\Documents\GitHub\Data-Structures-And-Algorithms\Data-Structures\Trees-And-Tree-Structures\Calculate-Arithmetic-Expression\bin\Debug\Calculate-Arithmetic-Expression.exe.config
