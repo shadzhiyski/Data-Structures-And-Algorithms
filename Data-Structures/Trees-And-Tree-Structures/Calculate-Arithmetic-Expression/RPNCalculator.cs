@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
+using System.Threading;
 
 namespace Calculate_Arithmetic_Expression
 {
@@ -15,6 +17,8 @@ namespace Calculate_Arithmetic_Expression
 
         static void Main(string[] args)
         {
+            Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
+
             var expressionTokens = Console.ReadLine()
                 .Replace("(", "( ")
                 .Replace(")", " )")
@@ -43,11 +47,16 @@ namespace Calculate_Arithmetic_Expression
                     while (operatorsStack.Count > 0
                         && HasLowerPriority(token, operatorsStack.Peek()))
                     {
-                        var operation = operatorsStack.Pop();
+                        var operation = operatorsStack.Peek();
                         if (operation.Equals("("))
-                        { break; }
+                        {
+                            if (token.Equals(")"))
+                            { operatorsStack.Pop(); }
 
-                        tokensInPostfix.Add(operation);
+                            break;
+                        }
+
+                        tokensInPostfix.Add(operatorsStack.Pop());
                     }
 
                     if (token.Equals(")"))
