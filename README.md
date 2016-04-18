@@ -1,5 +1,5 @@
 # Data Structures And Algorithms
-Course
+Solutions of the most common algorithmic problems using basic algorithmic approaches and techniques.
 
 ## Algorithms
   - **Recursion**
@@ -19,3 +19,6 @@ Course
   - **Advanced Tree Structures**
   - **Data Structure Efficiency**
 
+####Technology
+- Language: C#
+- .NET version: 4.5+
