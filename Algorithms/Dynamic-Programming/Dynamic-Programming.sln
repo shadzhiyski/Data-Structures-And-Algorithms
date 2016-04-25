@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binomial-Coefficients", "Binomial-Coefficients\Binomial-Coefficients.csproj", "{C3354758-2CE4-4CBC-9214-B2EBDA6091D1}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum-With-Unlimited-Coins", "Sum-With-Unlimited-Coins\Sum-With-Unlimited-Coins.csproj", "{9C704132-1730-4BA4-A00D-00F0A4C98B11}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum-With-Limited-Coins", "Sum-With-Limited-Coins\Sum-With-Limited-Coins.csproj", "{BDC1B360-02FD-4F26-8ACF-22A8BB7367B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dividing-Presents", "Dividing-Presents\Dividing-Presents.csproj", "{57217456-029F-4394-ADED-07C630BCB507}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BDC1B360-02FD-4F26-8ACF-22A8BB7367B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDC1B360-02FD-4F26-8ACF-22A8BB7367B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDC1B360-02FD-4F26-8ACF-22A8BB7367B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57217456-029F-4394-ADED-07C630BCB507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57217456-029F-4394-ADED-07C630BCB507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57217456-029F-4394-ADED-07C630BCB507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57217456-029F-4394-ADED-07C630BCB507}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
